@@ -26,6 +26,22 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jS-Qu7j3FUJktYa3RXbP9j6puMArbgXK/view?usp=sharing](https://drive.google.com/file/d/1jS-Qu7j3FUJktYa3RXbP9j6puMArbgXK/view?usp=sharing)
 
 - ⚡ Fun fact **StandUpComedy**
+## 👨‍🏫 Experience
+- Intern role at Geeksmetrics Solutions pvt ltd (InternX) - AIML .
+  [LOR](https://drive.google.com/file/d/1DicDFl2SJMCFTfPQwf2TX61Ke4qyLyAu/view?usp=sharing)
+  [InternX](https://drive.google.com/file/d/1DZp-lOf9yC_Aq0cxRScVl52rjwvX51OT/view?usp=sharing)
+
+- Completed webinar tutorials on Web Designing for 3 batches. 📖
+
+Conducted offline teaching at PBRVITS Engineering for Web Development. 🏫
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea3a4128-ca1f-462a-8d0f-6647009d625b" width="200" />
+  <img src="https://github.com/user-attachments/assets/3a9ed386-50c8-4a1a-98c6-bf23972a8f1b" width="200" />
+  <img src="https://github.com/user-attachments/assets/c0dea3a3-7cd6-4ae8-a23c-4f3cdf001c7a" width="200" />
+  <img src="https://github.com/user-attachments/assets/64b215ef-3dcd-42e3-87d2-64f4ba21f873" width="200" />
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -137,10 +153,6 @@
 - **AIML Certificate and LOR** - Internx Company (May 2024 - Aug 2024) 📜
 - **Fast Typing Certificate**: 51 WPM - RataType (Oct 2023) ⌨️
 
-## 👨‍🏫 Experience
-- Intern role at Geeksmetrics Solutions pvt ltd (InternX) - AIML .
-- Completed webinar tutorials on Web Designing for 3 batches. 📖
-- Conducted offline teaching at PBRVITS Engineering for Web Development. 🏫
 
 ## 🏆 Achievements
 - Merit certification for paper presentation, debugging, and web design. 🎖️

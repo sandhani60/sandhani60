@@ -1,4 +1,7 @@
-![logo](https://github.com/sandhani60/sandhani60/blob/main/dd.jpg)
+<p align="center">
+  <img src="https://github.com/sandhani60/sandhani60/blob/main/dd.jpg" width="300" />
+</p>
+
 <h1 align="center">Hello 👋,I'm Shaik Sandhani🧑‍🎓 (CSE-AI)🤖 </h1>
 <h3>👩‍💻 Motivated and Results-Driven CSE Graduate Specializing in AI</h3>
 <p>💡 Hands-on experience in Data Structures and Algorithms (DSA), web development, and the software development lifecycle (SDLC).</p>
@@ -38,11 +41,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhani60&show_icons=true&locale=en" alt="sandhani60" /></p>
 <h1 align="center">Wallpapers🤖 </h1>
-![cc](https://github.com/user-attachments/assets/a35be164-abb6-45e7-94d1-e24b906b21df)
-![dd](https://github.com/user-attachments/assets/67c50020-f014-4d90-b![Screenshot 2024-10-09 133949](https://github.com/user-attachments/assets/4150450d-7ddd-4779-bc0b-3fa5bb097684)
-![Screenshot 2024-10-09 131555](https://github.com/user-attachments/assets/12b29dcc-317c-4918-925b-2be49a849679)
-![Screenshot 2024-10-09 131211](https://github.com/user-attachments/assets/cf687acd-1019-4dbf-81ee-2990ecb449d4)
-3fc-d4794825fc29)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a35be164-abb6-45e7-94d1-e24b906b21df" width="200" />
+  <img src="https://github.com/user-attachments/assets/67c50020-f014-4d90-b3fc-d4794825fc29" width="200" />
+  <img src="https://github.com/user-attachments/assets/4150450d-7ddd-4779-bc0b-3fa5bb097684" width="200" />
+  <img src="https://github.com/user-attachments/assets/12b29dcc-317c-4918-925b-2be49a849679" width="200" />
+</p>
+
 
 
 
@@ -50,18 +55,25 @@
 ## 🛠️ Projects (Total: 10)
 1. **PBRVITS Total Management**  
    An interactive tool designed for educational institutions to manage student data, including personal details and attendance. 📚
-   ![Screenshot 2024-10-08 102413](https://github.com/user-attachments/assets/f08a2dcc-d0ed-4adb-ab95-4ab2a7f35743)
-![Screenshot 2024-10-08 102355](https://github.com/user-attachments/assets/616eca2e-5280-4abd-8e9a-5a1ec7f60353)
-![Screenshot 2024-10-08 102346](https://github.com/user-attachments/assets/928b7873-9075-40ee-8321-f02cc66451ca)
-![Screenshot 2024-10-08 102336](https://github.com/user-attachments/assets/e55ed39e-e6ee-4f44-9366-c5d3d22d6424)
-![Screenshot 2024-10-08 102330](https://github.com/user-attachments/assets/723de776-cfa9-4b4e-9779-0332d26ad014)
-![Screenshot 2024-10-08 102323](https://github.com/user-attachments/assets/9e6dc98a-7100-4cf5-9c88-da2bda731498)
-![Screenshot 2024-10-08 102304](https://github.com/user-attachments/assets/14db73ae-e8d4-4519-9c83-e27a97c96d17)
-![Screenshot 2024-10-08 102502](https://github.com/user-attachments/assets/c6e4fc6a-e6be-4109-8755-eb6e8565f968)
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/f08a2dcc-d0ed-4adb-ab95-4ab2a7f35743" width="200" />
+  <img src="https://github.com/user-attachments/assets/616eca2e-5280-4abd-8e9a-5a1ec7f60353" width="200" />
+  <img src="https://github.com/user-attachments/assets/928b7873-9075-40ee-8321-f02cc66451ca" width="200" />
+  <img src="https://github.com/user-attachments/assets/e55ed39e-e6ee-4f44-9366-c5d3d22d6424" width="200" />
+</p>
 
-![Screenshot 2024-10-08 102437](https://github.com/user-attachments/assets/2474f662-9da8-4f40-abc4-b049dbb0b09c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/723de776-cfa9-4b4e-9779-0332d26ad014" width="200" />
+  <img src="https://github.com/user-attachments/assets/9e6dc98a-7100-4cf5-9c88-da2bda731498" width="200" />
+  <img src="https://github.com/user-attachments/assets/14db73ae-e8d4-4519-9c83-e27a97c96d17" width="200" />
+  <img src="https://github.com/user-attachments/assets/c6e4fc6a-e6be-4109-8755-eb6e8565f968" width="200" />
+</p>
 
- [Uploading vc.py…]()
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2474f662-9da8-4f40-abc4-b049dbb0b09c" width="200" />
+</p>
+
+
 
    
 
@@ -69,7 +81,7 @@
    A voice assistant application that utilizes speech recognition and text-to-speech technologies to interact with users through voice commands, capable of performing various tasks. 🎤
    
    
-   [Uploading chintu.txt…]()
+   
 
 
 3. **SS-Foodie**  
@@ -80,7 +92,10 @@
    Initiated and created the Visvotsav event, including the development of the event website. 🎉
     
      
-![WhatsApp Image 2023-08-25 at 9 06 34 PM](https://github.com/user-attachments/assets/60f91e81-de65-43e9-98e4-326da33b055c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60f91e81-de65-43e9-98e4-326da33b055c" width="300" />
+</p>
+
 
 🎉 **Join us for the Visvotsav 2K24 Event!**  
 📅 **Dates:** September 13th to 15th  
@@ -89,7 +104,10 @@
 5. **College Site**  
    Developed a college website using HTML, CSS, and JavaScript. 🏫
    🌐 (https://pbrvits.netlify.app/)
-   ![vec](https://github.com/user-attachments/assets/b947802d-8ec1-47e8-9786-2e56a1041181)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/b947802d-8ec1-47e8-9786-2e56a1041181" width="300" />
+</p>
+
   
 
 6. **Advanced Java Projects**  

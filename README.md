@@ -41,25 +41,47 @@
 
 ## 🛠️ Projects (Total: 10)
 1. **PBRVITS Total Management**  
-   An interactive tool designed for educational institutions to manage student data, including personal details and attendance. 📚  
- 
+   An interactive tool designed for educational institutions to manage student data, including personal details and attendance. 📚
+   ![Screenshot 2024-10-08 102413](https://github.com/user-attachments/assets/f08a2dcc-d0ed-4adb-ab95-4ab2a7f35743)
+![Screenshot 2024-10-08 102355](https://github.com/user-attachments/assets/616eca2e-5280-4abd-8e9a-5a1ec7f60353)
+![Screenshot 2024-10-08 102346](https://github.com/user-attachments/assets/928b7873-9075-40ee-8321-f02cc66451ca)
+![Screenshot 2024-10-08 102336](https://github.com/user-attachments/assets/e55ed39e-e6ee-4f44-9366-c5d3d22d6424)
+![Screenshot 2024-10-08 102330](https://github.com/user-attachments/assets/723de776-cfa9-4b4e-9779-0332d26ad014)
+![Screenshot 2024-10-08 102323](https://github.com/user-attachments/assets/9e6dc98a-7100-4cf5-9c88-da2bda731498)
+![Screenshot 2024-10-08 102304](https://github.com/user-attachments/assets/14db73ae-e8d4-4519-9c83-e27a97c96d17)
+![Screenshot 2024-10-08 102502](https://github.com/user-attachments/assets/c6e4fc6a-e6be-4109-8755-eb6e8565f968)
+![Screenshot 2024-10-08 102446](https://github.com/user-attachments/assets/44beadc1-dca5-48ac-8835-38ad41167c7e)
+![Screenshot 2024-10-08 102437](https://github.com/user-attachments/assets/2474f662-9da8-4f40-abc4-b049dbb0b09c)
+
+ [Uploading vc.py…]()
+
    
 
 2. **Chintu**  
-   A voice assistant application that utilizes speech recognition and text-to-speech technologies to interact with users through voice commands, capable of performing various tasks. 🎤  
+   A voice assistant application that utilizes speech recognition and text-to-speech technologies to interact with users through voice commands, capable of performing various tasks. 🎤
    
    
+   [Uploading chintu.txt…]()
+
 
 3. **SS-Foodie**  
    Created a restaurant management site from ordering and menu management to billing via cash or card as part of a competition. 🍽️  
-   
+
 
 4. **Visvotsav Event**  
-   Initiated and created the Visvotsav event, including the development of the event website. 🎉  
-  
+   Initiated and created the Visvotsav event, including the development of the event website. 🎉
+    
+     
+![WhatsApp Image 2023-08-25 at 9 06 34 PM](https://github.com/user-attachments/assets/60f91e81-de65-43e9-98e4-326da33b055c)
+
+🎉 **Join us for the Visvotsav 2K24 Event!**  
+📅 **Dates:** September 13th to 15th  
+🌐 [Register Now](https://visvotsav.in)
 
 5. **College Site**  
-   Developed a college website using HTML, CSS, and JavaScript. 🏫  
+   Developed a college website using HTML, CSS, and JavaScript. 🏫
+   🌐 (https://pbrvits.netlify.app/)
+   ![vec](https://github.com/user-attachments/assets/b947802d-8ec1-47e8-9786-2e56a1041181)
   
 
 6. **Advanced Java Projects**  
@@ -67,7 +89,8 @@
   
 
 7. **Android Projects**  
-   Created three Android apps: SPV Foodie, Sandhani Quiz App, and Online Fruits Selling App, utilizing Java, Firebase, and Android Studio. 📱  
+   Created three Android apps: SPV Foodie, Sandhani Quiz App, and Online Fruits Selling App, utilizing Java, Firebase, and Android Studio. 📱
+   
    
 
 8. **Find The Case**  

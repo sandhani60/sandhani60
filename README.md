@@ -1,4 +1,4 @@
-![logo](https://github.com/sandhani60/sandhani60/blob/main/edit.jpg)
+![logo](https://github.com/sandhani60/sandhani60/blob/main/dd.jpg)
 <h1 align="center">Hello 👋,I'm Shaik Sandhani🧑‍🎓 (CSE-AI)🤖 </h1>
 <h3>👩‍💻 Motivated and Results-Driven CSE Graduate Specializing in AI</h3>
 <p>💡 Hands-on experience in Data Structures and Algorithms (DSA), web development, and the software development lifecycle (SDLC).</p>
@@ -37,6 +37,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandhani60&show_icons=true&locale=en&layout=compact" alt="sandhani60" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhani60&show_icons=true&locale=en" alt="sandhani60" /></p>
+<h1 align="center">Wallpapers🤖 </h1>
+![cc](https://github.com/user-attachments/assets/a35be164-abb6-45e7-94d1-e24b906b21df)
+![dd](https://github.com/user-attachments/assets/67c50020-f014-4d90-b![Screenshot 2024-10-09 133949](https://github.com/user-attachments/assets/4150450d-7ddd-4779-bc0b-3fa5bb097684)
+![Screenshot 2024-10-09 131555](https://github.com/user-attachments/assets/12b29dcc-317c-4918-925b-2be49a849679)
+![Screenshot 2024-10-09 131211](https://github.com/user-attachments/assets/cf687acd-1019-4dbf-81ee-2990ecb449d4)
+3fc-d4794825fc29)
+
+
 
 
 ## 🛠️ Projects (Total: 10)
@@ -50,7 +58,7 @@
 ![Screenshot 2024-10-08 102323](https://github.com/user-attachments/assets/9e6dc98a-7100-4cf5-9c88-da2bda731498)
 ![Screenshot 2024-10-08 102304](https://github.com/user-attachments/assets/14db73ae-e8d4-4519-9c83-e27a97c96d17)
 ![Screenshot 2024-10-08 102502](https://github.com/user-attachments/assets/c6e4fc6a-e6be-4109-8755-eb6e8565f968)
-![Screenshot 2024-10-08 102446](https://github.com/user-attachments/assets/44beadc1-dca5-48ac-8835-38ad41167c7e)
+
 ![Screenshot 2024-10-08 102437](https://github.com/user-attachments/assets/2474f662-9da8-4f40-abc4-b049dbb0b09c)
 
  [Uploading vc.py…]()

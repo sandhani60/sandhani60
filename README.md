@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sandhani60/sandhani60/blob/main/ai.jpg" width="800" />
+  <img src="https://github.com/sandhani60/sandhani60/blob/main/dd.jpg" width="800" />
 </p>
 
 <h1 align="center">Hello 👋,I'm Shaik Sandhani🧑‍🎓 (CSE-AI)🤖 </h1>

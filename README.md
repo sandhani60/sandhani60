@@ -1,5 +1,5 @@
 ![logo](https://github.com/sandhani60/sandhani60/blob/main/1685009028-1653739181-yogananda.jpg)
-<h1 align="center">Hi 👋, I'm Shaik Sandhani</h1>
+<h1 align="center">Hello 👋,I'm Shaik Sandhani🧑‍🎓 (CSE-AI)🤖 </h1>
 <h3 align="center">Motivated and results-driven Computer Science Engineering (CSE) graduate specializing in Artificial Intelligence, with hands-on experience in Data Structures and Algorithms (DSA), web development, and software development lifecycle (SDLC). Proficient in Java, Python, and full-stack development, with additional expertise in Power BI and data analysis. Seeking an entry-level Project Management Associate role where I can leverage my technical skills, problem-solving abilities, and project management experience to drive innovative solutions and contribute to successful project execution.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhani60&label=Profile%20views&color=0e75b6&style=flat" alt="sandhani60" /> </p>
